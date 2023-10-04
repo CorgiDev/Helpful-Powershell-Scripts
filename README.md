@@ -1,4 +1,4 @@
-# Helpful-Powershell-Scripts
+# Helpful Powershell Scripts
 A variety of helpful Powershell scripts for everyday tasks.
 
 ## Clear print spool script
