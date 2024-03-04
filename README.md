@@ -31,7 +31,7 @@ If that still does not work, try one of the following:
 11. Restart the print spool by right-click "Print Spooler" and selecting "Start".
 12. Attempt to print a file again.
 
-### Reinstall Computer
+### Reinstall Printer
 
 1. Press Windows + X to bring up a special Windows context menu.
 2. Select "Device Manager" from that menu.
